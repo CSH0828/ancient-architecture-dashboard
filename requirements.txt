@@ -1,23 +1,4 @@
-# 虚拟环境
-venv/
-env/
-.venv/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# 缓存
-__pycache__/
-*.py[cod]
-*$py.class
-
-# 数据文件
-*.csv
-*.xlsx
-*.db
-
-# 日志
-*.log
+Flask==3.0.0
+pandas==2.1.4
+plotly==5.18.0
+numpy==1.24.3
